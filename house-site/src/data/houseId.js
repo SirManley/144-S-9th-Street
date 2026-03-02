@@ -1,0 +1,1 @@
+export const HOUSE_ID = "144-s-9th-street";
